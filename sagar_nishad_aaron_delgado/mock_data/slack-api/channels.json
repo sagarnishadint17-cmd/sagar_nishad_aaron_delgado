@@ -1,0 +1,57 @@
+[
+  {
+    "id": "C_general",
+    "name": "general",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Academy-wide announcements",
+    "purpose": "General discussion for Cedar Ridge staff",
+    "creator": "U_aaron",
+    "created": "1737396000",
+    "num_members": "5"
+  },
+  {
+    "id": "C_tournament",
+    "name": "tournament-2026",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Fall Tournament planning",
+    "purpose": "Planning and coordination for the 2026 tournament",
+    "creator": "U_aaron",
+    "created": "1737396000",
+    "num_members": "4"
+  },
+  {
+    "id": "C_equipment",
+    "name": "equipment",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Equipment updates",
+    "purpose": "Equipment inventory, maintenance, and ordering",
+    "creator": "U_aaron",
+    "created": "1737396000",
+    "num_members": "3"
+  },
+  {
+    "id": "C_instructors",
+    "name": "instructors-only",
+    "is_private": "true",
+    "is_archived": "false",
+    "topic": "Instructor coordination",
+    "purpose": "Private channel for instructor scheduling and student discussions",
+    "creator": "U_aaron",
+    "created": "1737396000",
+    "num_members": "3"
+  },
+  {
+    "id": "C_random",
+    "name": "random",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Non-work banter",
+    "purpose": "Water cooler chat",
+    "creator": "U_aaron",
+    "created": "1737396000",
+    "num_members": "5"
+  }
+]

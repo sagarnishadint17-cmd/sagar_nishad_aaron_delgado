@@ -1,0 +1,130 @@
+[
+  {
+    "event_id": "gcal_001",
+    "email": "aaron.delgado@email.com",
+    "display_name": "Aaron Delgado",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "gcal_002",
+    "email": "tom.iverson@cedarridgema.com",
+    "display_name": "Tom Iverson",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "gcal_002",
+    "email": "aaron.delgado@email.com",
+    "display_name": "Aaron Delgado",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "gcal_003",
+    "email": "tom.iverson@cedarridgema.com",
+    "display_name": "Tom Iverson",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "gcal_003",
+    "email": "aaron.delgado@email.com",
+    "display_name": "Aaron Delgado",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "gcal_003",
+    "email": "raj.patel@cedarridgema.com",
+    "display_name": "Raj Patel",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "gcal_004",
+    "email": "tom.iverson@cedarridgema.com",
+    "display_name": "Tom Iverson",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "gcal_004",
+    "email": "aaron.delgado@email.com",
+    "display_name": "Aaron Delgado",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "gcal_004",
+    "email": "raj.patel@cedarridgema.com",
+    "display_name": "Raj Patel",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "gcal_004",
+    "email": "maya.chen.photo@gmail.com",
+    "display_name": "Maya Chen Photo",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "gcal_005",
+    "email": "aaron.delgado@email.com",
+    "display_name": "Aaron Delgado",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "gcal_005",
+    "email": "elena.delgado@email.com",
+    "display_name": "Elena Delgado",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "gcal_006",
+    "email": "elena.delgado@email.com",
+    "display_name": "Elena Delgado",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "gcal_008",
+    "email": "tom.iverson@cedarridgema.com",
+    "display_name": "Tom Iverson",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "gcal_008",
+    "email": "aaron.delgado@email.com",
+    "display_name": "Aaron Delgado",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "gcal_008",
+    "email": "raj.patel@cedarridgema.com",
+    "display_name": "Raj Patel",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  }
+]

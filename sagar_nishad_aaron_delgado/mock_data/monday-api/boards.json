@@ -1,0 +1,18 @@
+[
+  {
+    "board_id": "board_cr_tourn_2026",
+    "workspace_id": "ws_cedar_ridge",
+    "name": "Cedar Ridge Tournament Planning 2026",
+    "description": "Planning board for January 2027 tournament readiness",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board_cr_ops",
+    "workspace_id": "ws_cedar_ridge",
+    "name": "Cedar Ridge Operations",
+    "description": "General dojo operations board",
+    "state": "active",
+    "board_kind": "public"
+  }
+]

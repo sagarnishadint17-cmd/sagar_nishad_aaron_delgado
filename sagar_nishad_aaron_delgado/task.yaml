@@ -1,0 +1,40 @@
+difficulty: hard
+modalities:
+  - text
+  - image
+  - document
+  - audio
+  - video
+l1: Operations & QA
+l2: Inventory Visual Audit
+l1_slug: operations_qa
+l2_slug: inventory_visual_audit
+task_type: multimodal_reconciliation
+persona: Aaron Delgado
+task_name: Cedar Ridge Tournament Equipment Reconciliation and Approval Gate
+target_failure_ratio: 0.40
+required_apis:
+  - airtable-api
+  - gmail-api
+  - monday-api
+distractor_apis:
+  - eventbrite-api
+  - google-calendar-api
+  - notion-api
+  - slack-api
+required_files:
+  - prompt.txt
+  - rubric.json
+  - test_outputs.py
+  - test_weights.json
+  - golden_steer_flow.md
+  - task.yaml
+required_folders:
+  - data
+  - mock_data
+  - persona
+notes: >
+  Final task folder follows the Kensei PDF template with root instruction, rubric,
+  deterministic tests, test weights, golden steer flow, task metadata, data,
+  mock_data, and persona folders. The mock_data folder contains the corrected API
+  overlays from the original apis folder in valid environment-aligned JSON form.

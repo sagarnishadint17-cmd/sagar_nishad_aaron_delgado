@@ -1,0 +1,5 @@
+user_id,name,email,type,avatar_url
+nu_aaron,Aaron Delgado,aaron.delgado@email.com,person,
+nu_tom,Tom Iverson,tom.iverson@cedarridgema.com,person,
+nu_raj,Raj Patel,raj.patel@cedarridgema.com,person,
+nu_bot,Cedar Bot,,bot,

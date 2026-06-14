@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cal_aaron_primary",
+    "summary": "Aaron Delgado",
+    "description": "",
+    "time_zone": "America/Los_Angeles",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "cal_cedar_ridge",
+    "summary": "Cedar Ridge Dojo",
+    "description": "",
+    "time_zone": "America/Los_Angeles",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "1"
+  },
+  {
+    "id": "cal_family",
+    "summary": "Delgado Family",
+    "description": "",
+    "time_zone": "America/Los_Angeles",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "1"
+  }
+]

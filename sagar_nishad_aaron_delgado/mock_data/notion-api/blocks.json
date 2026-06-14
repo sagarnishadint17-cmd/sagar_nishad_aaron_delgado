@@ -1,0 +1,122 @@
+[
+  {
+    "id": "blk_001",
+    "page_id": "pg_equip_guide",
+    "parent_block_id": "",
+    "type": "heading_1",
+    "text": "Equipment Inspection Checklist",
+    "order": "0",
+    "created_time": "2025-12-01T10:00:00-08:00",
+    "last_edited_time": "2026-12-28T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_002",
+    "page_id": "pg_equip_guide",
+    "parent_block_id": "",
+    "type": "paragraph",
+    "text": "This guide covers the standard equipment inspection process for Cedar Ridge. All equipment must be inspected at least once per quarter.",
+    "order": "1",
+    "created_time": "2025-12-01T10:00:00-08:00",
+    "last_edited_time": "2026-12-28T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_003",
+    "page_id": "pg_equip_guide",
+    "parent_block_id": "",
+    "type": "bulleted_list_item",
+    "text": "Shinai: Check for cracks, splinters, loose tsukagawa. Flex test each slat.",
+    "order": "2",
+    "created_time": "2025-12-01T10:00:00-08:00",
+    "last_edited_time": "2026-12-28T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_004",
+    "page_id": "pg_equip_guide",
+    "parent_block_id": "",
+    "type": "bulleted_list_item",
+    "text": "Kote: Inspect palmar stitching, check padding compression, verify kote-himo ties.",
+    "order": "3",
+    "created_time": "2025-12-01T10:00:00-08:00",
+    "last_edited_time": "2026-12-28T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_005",
+    "page_id": "pg_equip_guide",
+    "parent_block_id": "",
+    "type": "bulleted_list_item",
+    "text": "Bogu: Check men-gane for cracks, verify do straps, inspect tare for fraying.",
+    "order": "4",
+    "created_time": "2025-12-01T10:00:00-08:00",
+    "last_edited_time": "2026-12-28T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_006",
+    "page_id": "pg_equip_guide",
+    "parent_block_id": "",
+    "type": "callout",
+    "text": "IMPORTANT: Any damaged equipment must be immediately removed from active inventory and tagged with a red damage tag.",
+    "order": "5",
+    "created_time": "2026-12-28T10:00:00-07:00",
+    "last_edited_time": "2026-12-28T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_007",
+    "page_id": "pg_policies",
+    "parent_block_id": "",
+    "type": "heading_1",
+    "text": "Financial Policies",
+    "order": "6",
+    "created_time": "2025-02-15T10:00:00-08:00",
+    "last_edited_time": "2026-11-01T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_008",
+    "page_id": "pg_policies",
+    "parent_block_id": "",
+    "type": "paragraph",
+    "text": "Purchases under $175 may be approved by either co-owner independently. Purchases at or above $175 require explicit approval from both co-owners before ordering.",
+    "order": "7",
+    "created_time": "2025-02-15T10:00:00-08:00",
+    "last_edited_time": "2026-11-01T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_009",
+    "page_id": "pg_tournament_plan",
+    "parent_block_id": "",
+    "type": "heading_1",
+    "text": "Equipment Requirements",
+    "order": "8",
+    "created_time": "2026-11-15T09:00:00-07:00",
+    "last_edited_time": "2027-01-03T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  },
+  {
+    "id": "blk_010",
+    "page_id": "pg_tournament_plan",
+    "parent_block_id": "",
+    "type": "paragraph",
+    "text": "Minimum requirements: 10 adult shinai, 5 adult kote pairs, 6 adult bogu sets. See file_01.pdf for full specification.",
+    "order": "9",
+    "created_time": "2026-11-15T09:00:00-07:00",
+    "last_edited_time": "2027-01-03T10:00:00-07:00",
+    "has_children": "false",
+    "checked": ""
+  }
+]

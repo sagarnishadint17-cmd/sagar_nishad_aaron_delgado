@@ -1,0 +1,92 @@
+[
+  {
+    "ts": "1799000000.000000",
+    "channel_id": "C_equipment",
+    "user_id": "U_raj",
+    "text": "Heads up: I pulled 2 damaged adult kote (size L) from Shelf B-upper today. Torn palmar stitching on both. Tagged them red and moved to B-lower. Airtable updated.",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": "eyes:2"
+  },
+  {
+    "ts": "1799000000.000001",
+    "channel_id": "C_equipment",
+    "user_id": "U_tom",
+    "text": "Thanks Raj. @aaron we'll need replacements before the tournament. Can you check with Budo Supply?",
+    "thread_ts": "2026-12-28T16:30:00-07:00",
+    "reply_count": "0",
+    "reactions": "thumbsup:1"
+  },
+  {
+    "ts": "1799000000.000002",
+    "channel_id": "C_equipment",
+    "user_id": "U_aaron",
+    "text": "On it. I'll get a quote from Budo Supply tomorrow. 2 replacement adult kote L, plus we might want extra shinai.",
+    "thread_ts": "2026-12-28T16:30:00-07:00",
+    "reply_count": "0",
+    "reactions": "thumbsup:2"
+  },
+  {
+    "ts": "1799000000.000003",
+    "channel_id": "C_tournament",
+    "user_id": "U_tom",
+    "text": "Registration update: we're at 12 so far (8 adult, 4 youth). Need to push marketing this week.",
+    "thread_ts": "",
+    "reply_count": "1",
+    "reactions": ""
+  },
+  {
+    "ts": "1799000000.000004",
+    "channel_id": "C_tournament",
+    "user_id": "U_aaron",
+    "text": "I'll boost the Instagram ad and send a reminder to the mailing list.",
+    "thread_ts": "2027-01-01T11:00:00-07:00",
+    "reply_count": "0",
+    "reactions": "fire:1"
+  },
+  {
+    "ts": "1799000000.000005",
+    "channel_id": "C_tournament",
+    "user_id": "U_aaron",
+    "text": "Equipment audit is scheduled for Jan 5. I'll head to the dojo in the morning to do the full count and photos.",
+    "thread_ts": "",
+    "reply_count": "0",
+    "reactions": "thumbsup:2"
+  },
+  {
+    "ts": "1799000000.000006",
+    "channel_id": "C_general",
+    "user_id": "U_tom",
+    "text": "Reminder: Saturday open practice this week has Raj leading. I'll be at the PNKF regional meeting.",
+    "thread_ts": "",
+    "reply_count": "0",
+    "reactions": "ok_hand:1"
+  },
+  {
+    "ts": "1799000000.000007",
+    "channel_id": "C_random",
+    "user_id": "U_aaron",
+    "text": "Anyone tried the new ramen place on Division? Thinking of taking Elena there for date night.",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": "ramen:1"
+  },
+  {
+    "ts": "1799000000.000008",
+    "channel_id": "C_random",
+    "user_id": "U_raj",
+    "text": "Yes! The tonkotsu is amazing. Get the spicy miso if you like heat.",
+    "thread_ts": "2027-01-02T12:00:00-07:00",
+    "reply_count": "0",
+    "reactions": "hot_pepper:1"
+  },
+  {
+    "ts": "1799000000.000009",
+    "channel_id": "C_instructors",
+    "user_id": "U_tom",
+    "text": "FYI - I'm going to recommend David Park for tournament assistant referee. He's been solid in practice bouts.",
+    "thread_ts": "",
+    "reply_count": "1",
+    "reactions": "thumbsup:2"
+  }
+]

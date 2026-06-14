@@ -1,0 +1,11 @@
+message_id,channel_id,user_id,text,timestamp,thread_ts,reply_count,reactions
+m_001,C_equipment,U_raj,Heads up: I pulled 2 damaged adult kote (size L) from Shelf B-upper today. Torn palmar stitching on both. Tagged them red and moved to B-lower. Airtable updated.,2026-12-28T16:30:00-07:00,,2,eyes:2
+m_002,C_equipment,U_tom,Thanks Raj. @aaron we'll need replacements before the tournament. Can you check with Budo Supply?,2026-12-28T16:45:00-07:00,2026-12-28T16:30:00-07:00,0,thumbsup:1
+m_003,C_equipment,U_aaron,"On it. I'll get a quote from Budo Supply tomorrow. 2 replacement adult kote L, plus we might want extra shinai.",2026-12-28T17:00:00-07:00,2026-12-28T16:30:00-07:00,0,thumbsup:2
+m_004,C_tournament,U_tom,"Registration update: we're at 12 so far (8 adult, 4 youth). Need to push marketing this week.",2027-01-01T11:00:00-07:00,,1,
+m_005,C_tournament,U_aaron,I'll boost the Instagram ad and send a reminder to the mailing list.,2027-01-01T11:15:00-07:00,2027-01-01T11:00:00-07:00,0,fire:1
+m_006,C_tournament,U_aaron,Equipment audit is scheduled for Jan 5. I'll head to the dojo in the morning to do the full count and photos.,2027-01-03T09:00:00-07:00,,0,thumbsup:2
+m_007,C_general,U_tom,Reminder: Saturday open practice this week has Raj leading. I'll be at the PNKF regional meeting.,2027-01-03T14:00:00-07:00,,0,ok_hand:1
+m_008,C_random,U_aaron,Anyone tried the new ramen place on Division? Thinking of taking Elena there for date night.,2027-01-02T12:00:00-07:00,,2,ramen:1
+m_009,C_random,U_raj,Yes! The tonkotsu is amazing. Get the spicy miso if you like heat.,2027-01-02T12:15:00-07:00,2027-01-02T12:00:00-07:00,0,hot_pepper:1
+m_010,C_instructors,U_tom,FYI - I'm going to recommend David Park for tournament assistant referee. He's been solid in practice bouts.,2027-01-01T18:00:00-07:00,,1,thumbsup:2

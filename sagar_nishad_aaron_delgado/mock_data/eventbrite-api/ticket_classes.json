@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tc_adult",
+    "event_id": "evt_cr_fall_2026",
+    "name": "Adult Competitor",
+    "quantity_total": "80",
+    "quantity_sold": "72",
+    "cost": "3500",
+    "fee": "350",
+    "free": "false",
+    "sales_start": "2026-12-15T10:00:00Z",
+    "sales_end": "2027-01-12T23:00:00Z"
+  },
+  {
+    "id": "tc_youth",
+    "event_id": "evt_cr_fall_2026",
+    "name": "Youth Competitor",
+    "quantity_total": "50",
+    "quantity_sold": "46",
+    "cost": "2000",
+    "fee": "200",
+    "free": "false",
+    "sales_start": "2026-12-15T10:00:00Z",
+    "sales_end": "2027-01-12T23:00:00Z"
+  }
+]

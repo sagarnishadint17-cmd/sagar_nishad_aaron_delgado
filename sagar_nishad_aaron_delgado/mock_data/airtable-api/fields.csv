@@ -1,0 +1,10 @@
+id,table_id,name,type
+fldCAT,tblEQINV,Category,singleLineText
+fldITEM,tblEQINV,Item,singleLineText
+fldSIZE,tblEQINV,Size_Type,singleLineText
+fldCOUNT,tblEQINV,Current_Count,number
+fldCOND,tblEQINV,Condition,singleSelect
+fldINSP,tblEQINV,Last_Inspected,date
+fldMINREQ,tblEQINV,Min_Required_Tournament,number
+fldSHORT,tblEQINV,Shortfall,number
+fldUPDATED,tblEQINV,Last_Updated_By,singleLineText

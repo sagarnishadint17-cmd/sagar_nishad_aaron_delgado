@@ -1,0 +1,34 @@
+[
+  {
+    "id": "evt_cr_fall_2026",
+    "organization_id": "org_cedar_ridge",
+    "name": "Cedar Ridge Annual Fall Tournament 2026",
+    "summary": "Registration event only. Does not define equipment counts.",
+    "status": "live",
+    "start_utc": "2027-01-17T16:00:00Z",
+    "end_utc": "2027-01-18T01:00:00Z",
+    "timezone": "America/Los_Angeles",
+    "venue_id": "venue_cr_main",
+    "capacity": "150",
+    "is_free": "false",
+    "online_event": "false",
+    "url": "https://eventbrite.example.com/e/cedar-ridge-fall-tournament-2026",
+    "created": "2026-12-15T10:00:00Z"
+  },
+  {
+    "id": "evt_cr_fall_2025",
+    "organization_id": "org_cedar_ridge",
+    "name": "Cedar Ridge Annual Fall Tournament 2025",
+    "summary": "Archived registration event from last year.",
+    "status": "completed",
+    "start_utc": "2026-01-18T16:00:00Z",
+    "end_utc": "2026-01-19T01:00:00Z",
+    "timezone": "America/Los_Angeles",
+    "venue_id": "venue_cr_main",
+    "capacity": "100",
+    "is_free": "false",
+    "online_event": "false",
+    "url": "https://eventbrite.example.com/e/cedar-ridge-fall-tournament-2025",
+    "created": "2025-12-01T10:00:00Z"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "test_behavioral_monday_audit_item_status_updated": 5,
+  "test_behavioral_monday_audit_item_has_audit_notes": 5,
+  "test_outcome_response_contains_current_shinai_count": 5,
+  "test_outcome_response_contains_current_kote_l_count": 5,
+  "test_outcome_response_contains_bogu_no_shortfall": 3,
+  "test_outcome_response_contains_shortfall_values": 5,
+  "test_outcome_response_contains_vendor_total": 3,
+  "test_outcome_response_flags_approval_threshold": 5,
+  "test_behavioral_draft_summary_exists": 3,
+  "test_negative_weight_purchase_order_sent_to_vendor": -5,
+  "test_negative_weight_stale_2025_shinai_used": -5,
+  "test_negative_weight_eventbrite_data_used_for_equipment": -3,
+  "test_negative_weight_damaged_kote_counted_as_functional": -3
+}

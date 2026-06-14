@@ -1,0 +1,13 @@
+attendee_id,event_id,name,email,ticket_type,status,division,registered_at,checked_in
+att_001,evt_tourn_2026,David Park,david.park@email.com,Adult Division,attending,Adult,2026-12-18T10:00:00-07:00,false
+att_002,evt_tourn_2026,Lisa Yamamoto,lisa.yamamoto@email.com,Adult Division,attending,Adult,2026-12-18T10:30:00-07:00,false
+att_003,evt_tourn_2026,Marcus Johnson,marcus.johnson@email.com,Adult Division,attending,Adult,2026-12-19T09:00:00-07:00,false
+att_004,evt_tourn_2026,Tyler Washington,tyler.w@email.com,Adult Division,attending,Adult,2026-12-20T14:00:00-07:00,false
+att_005,evt_tourn_2026,Jennifer Ng,jennifer.ng@email.com,Adult Division,attending,Adult,2026-12-20T14:15:00-07:00,false
+att_006,evt_tourn_2026,Robert Kim,rkim@email.com,Adult Division,attending,Adult,2026-12-22T11:00:00-07:00,false
+att_007,evt_tourn_2026,Amanda Torres,a.torres@email.com,Adult Division,attending,Adult,2026-12-23T08:30:00-07:00,false
+att_008,evt_tourn_2026,James Okafor,j.okafor@email.com,Adult Division,attending,Adult,2026-12-25T16:00:00-07:00,false
+att_009,evt_tourn_2026,Sarah Kim,s.kim.parent@email.com,Youth Division,attending,Youth,2026-12-19T09:30:00-07:00,false
+att_010,evt_tourn_2026,Kevin Chen,k.chen.parent@email.com,Youth Division,attending,Youth,2026-12-20T10:00:00-07:00,false
+att_011,evt_tourn_2026,Amy Rodriguez,a.rodriguez.parent@email.com,Youth Division,attending,Youth,2026-12-21T12:00:00-07:00,false
+att_012,evt_tourn_2026,Ethan Liu,ethan.liu.parent@email.com,Youth Division,attending,Youth,2026-12-24T09:00:00-07:00,false

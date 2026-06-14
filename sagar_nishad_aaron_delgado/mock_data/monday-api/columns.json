@@ -1,0 +1,37 @@
+[
+  {
+    "column_id": "status",
+    "board_id": "board_cr_tourn_2026",
+    "title": "Status",
+    "type": "status",
+    "position": "1"
+  },
+  {
+    "column_id": "owner",
+    "board_id": "board_cr_tourn_2026",
+    "title": "Owner",
+    "type": "person",
+    "position": "2"
+  },
+  {
+    "column_id": "due",
+    "board_id": "board_cr_tourn_2026",
+    "title": "Due Date",
+    "type": "date",
+    "position": "3"
+  },
+  {
+    "column_id": "priority",
+    "board_id": "board_cr_tourn_2026",
+    "title": "Priority",
+    "type": "status",
+    "position": "4"
+  },
+  {
+    "column_id": "notes",
+    "board_id": "board_cr_tourn_2026",
+    "title": "Notes",
+    "type": "long_text",
+    "position": "5"
+  }
+]

@@ -1,0 +1,11 @@
+block_id,parent_id,type,content,created_time,last_edited_time
+blk_001,pg_equip_guide,heading_1,Equipment Inspection Checklist,2025-12-01T10:00:00-08:00,2026-12-28T10:00:00-07:00
+blk_002,pg_equip_guide,paragraph,This guide covers the standard equipment inspection process for Cedar Ridge. All equipment must be inspected at least once per quarter.,2025-12-01T10:00:00-08:00,2026-12-28T10:00:00-07:00
+blk_003,pg_equip_guide,bulleted_list_item,"Shinai: Check for cracks, splinters, loose tsukagawa. Flex test each slat.",2025-12-01T10:00:00-08:00,2026-12-28T10:00:00-07:00
+blk_004,pg_equip_guide,bulleted_list_item,"Kote: Inspect palmar stitching, check padding compression, verify kote-himo ties.",2025-12-01T10:00:00-08:00,2026-12-28T10:00:00-07:00
+blk_005,pg_equip_guide,bulleted_list_item,"Bogu: Check men-gane for cracks, verify do straps, inspect tare for fraying.",2025-12-01T10:00:00-08:00,2026-12-28T10:00:00-07:00
+blk_006,pg_equip_guide,callout,IMPORTANT: Any damaged equipment must be immediately removed from active inventory and tagged with a red damage tag.,2026-12-28T10:00:00-07:00,2026-12-28T10:00:00-07:00
+blk_007,pg_policies,heading_1,Financial Policies,2025-02-15T10:00:00-08:00,2026-11-01T10:00:00-07:00
+blk_008,pg_policies,paragraph,Purchases under $175 may be approved by either co-owner independently. Purchases at or above $175 require explicit approval from both co-owners before ordering.,2025-02-15T10:00:00-08:00,2026-11-01T10:00:00-07:00
+blk_009,pg_tournament_plan,heading_1,Equipment Requirements,2026-11-15T09:00:00-07:00,2027-01-03T10:00:00-07:00
+blk_010,pg_tournament_plan,paragraph,"Minimum requirements: 10 adult shinai, 5 adult kote pairs, 6 adult bogu sets. See file_01.pdf for full specification.",2026-11-15T09:00:00-07:00,2027-01-03T10:00:00-07:00

@@ -1,0 +1,4 @@
+database_id,title,description,created_time,last_edited_time,parent_type,parent_id,is_inline,archived
+db_students,Student Directory,All current and past students,2025-02-01T10:00:00-08:00,2027-01-01T09:00:00-07:00,page,pg_root,false,false
+db_curriculum,Curriculum Plan,Lesson plans and belt requirements,2025-12-01T10:00:00-08:00,2026-12-15T10:00:00-07:00,page,pg_root,false,false
+db_knowledge,Kendo Knowledge Base,Technique guides and reference materials,2026-01-01T10:00:00-07:00,2026-11-20T10:00:00-07:00,page,pg_root,false,false

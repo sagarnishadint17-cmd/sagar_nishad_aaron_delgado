@@ -1,0 +1,22 @@
+[
+  {
+    "channel_id": "C_general",
+    "user_id": "U_aaron"
+  },
+  {
+    "channel_id": "C_tournament",
+    "user_id": "U_aaron"
+  },
+  {
+    "channel_id": "C_equipment",
+    "user_id": "U_aaron"
+  },
+  {
+    "channel_id": "C_instructors",
+    "user_id": "U_aaron"
+  },
+  {
+    "channel_id": "C_random",
+    "user_id": "U_aaron"
+  }
+]

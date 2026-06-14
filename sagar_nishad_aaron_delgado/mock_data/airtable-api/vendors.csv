@@ -1,0 +1,4 @@
+vendor_id,name,contact_email,phone,location,account_status,payment_terms,shipping_notes,preferred
+vnd_budo,Budo Supply,orders@budosupply.com,(503) 555-0182,"Portland, OR",Active - Good Standing,Net 15,"Free shipping over $200, 5-7 business days",true
+vnd_kstar,Kendo Star,sales@kendostar.com,(800) 555-0199,Online,Active,Prepayment,"Standard 7-14 business days, shipping varies",false
+vnd_pkr,Portland Kendo Repairs,info@pdxkendorepairs.com,(503) 555-0211,"Portland, OR",Active,On completion,Local pickup available,false

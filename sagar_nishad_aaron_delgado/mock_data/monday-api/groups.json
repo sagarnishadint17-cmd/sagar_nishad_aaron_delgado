@@ -1,0 +1,23 @@
+[
+  {
+    "group_id": "grp_todo",
+    "board_id": "board_cr_tourn_2026",
+    "title": "To Do",
+    "color": "#e2445c",
+    "position": "1"
+  },
+  {
+    "group_id": "grp_inprogress",
+    "board_id": "board_cr_tourn_2026",
+    "title": "In Progress",
+    "color": "#0086c0",
+    "position": "2"
+  },
+  {
+    "group_id": "grp_done",
+    "board_id": "board_cr_tourn_2026",
+    "title": "Done",
+    "color": "#00c875",
+    "position": "3"
+  }
+]

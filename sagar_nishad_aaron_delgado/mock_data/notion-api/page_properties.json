@@ -1,0 +1,14 @@
+[
+  {
+    "page_id": "pg_equip_guide",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Reference only"
+  },
+  {
+    "page_id": "pg_handbook",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "Tom Iverson"
+  }
+]

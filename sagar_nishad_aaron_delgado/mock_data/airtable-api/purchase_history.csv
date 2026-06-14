@@ -1,0 +1,6 @@
+purchase_id,date,vendor,items,quantity,unit_price,total,ordered_by,status,invoice_number
+pur_001,2025-11-10,Kendo Star,Adult Shinai 39in,4,45.0,180.0,Aaron Delgado,Delivered,KS-INV-2025-892
+pur_002,2025-11-15,Portland Kendo Repairs,Bogu do panel repair,1,85.0,85.0,Tom Iverson,Completed,PKR-2025-044
+pur_003,2025-12-01,Budo Supply,Miscellaneous supplies,1,120.0,120.0,Aaron Delgado,Delivered,BS-INV-2025-1203
+pur_004,2026-02-20,Budo Supply,Adult Shinai 39in,1,42.0,42.0,Raj Patel,Delivered,BS-INV-2026-0220
+pur_005,2026-11-15,Budo Supply,Tsukagawa replacement (3 sets),3,8.0,24.0,Raj Patel,Delivered,BS-INV-2026-0615

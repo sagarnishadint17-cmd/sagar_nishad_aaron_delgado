@@ -1,0 +1,22 @@
+[
+  {
+    "id": "att_001",
+    "event_id": "evt_cr_fall_2026",
+    "ticket_class_id": "tc_adult",
+    "name": "Sample Adult Competitor",
+    "email": "adult1@example.com",
+    "status": "attending",
+    "checked_in": "false",
+    "created": "2026-12-20T10:00:00Z"
+  },
+  {
+    "id": "att_002",
+    "event_id": "evt_cr_fall_2026",
+    "ticket_class_id": "tc_youth",
+    "name": "Sample Youth Competitor",
+    "email": "youth1@example.com",
+    "status": "attending",
+    "checked_in": "false",
+    "created": "2026-12-20T10:00:00Z"
+  }
+]

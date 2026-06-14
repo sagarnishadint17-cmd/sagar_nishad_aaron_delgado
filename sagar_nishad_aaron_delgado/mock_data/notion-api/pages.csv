@@ -1,0 +1,8 @@
+page_id,title,parent_type,parent_id,created_time,last_edited_time,created_by,archived,url
+pg_root,Cedar Ridge Wiki,workspace,,2025-01-20T10:00:00-08:00,2027-01-01T09:00:00-07:00,Aaron Delgado,false,notion.so/cedar-ridge-wiki
+pg_handbook,Instructor Handbook,page,pg_root,2025-02-15T10:00:00-08:00,2026-12-01T10:00:00-07:00,Tom Iverson,false,notion.so/instructor-handbook
+pg_policies,Dojo Policies,page,pg_root,2025-02-15T10:00:00-08:00,2026-11-01T10:00:00-07:00,Aaron Delgado,false,notion.so/dojo-policies
+pg_equip_guide,Equipment Guide,page,pg_root,2025-12-01T10:00:00-08:00,2026-12-28T10:00:00-07:00,Raj Patel,false,notion.so/equipment-guide
+pg_tournament_plan,Tournament Planning 2026,page,pg_root,2026-11-15T09:00:00-07:00,2027-01-03T10:00:00-07:00,Tom Iverson,false,notion.so/tournament-2026
+pg_safety,Safety Protocols,page,pg_root,2026-01-01T10:00:00-07:00,2026-11-15T10:00:00-07:00,Tom Iverson,false,notion.so/safety-protocols
+pg_vendor_list,Vendor Contacts,page,pg_root,2026-02-01T10:00:00-07:00,2026-12-25T10:00:00-07:00,Aaron Delgado,false,notion.so/vendors

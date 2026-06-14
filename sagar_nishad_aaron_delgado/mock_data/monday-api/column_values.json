@@ -1,0 +1,44 @@
+[
+  {
+    "item_id": "item_eq_audit",
+    "column_id": "status",
+    "text": "Not Started",
+    "value": ""
+  },
+  {
+    "item_id": "item_eq_audit",
+    "column_id": "owner",
+    "text": "Aaron Delgado",
+    "value": ""
+  },
+  {
+    "item_id": "item_eq_audit",
+    "column_id": "due",
+    "text": "2027-01-10",
+    "value": ""
+  },
+  {
+    "item_id": "item_eq_audit",
+    "column_id": "priority",
+    "text": "High",
+    "value": ""
+  },
+  {
+    "item_id": "item_eq_audit",
+    "column_id": "notes",
+    "text": "Complete equipment inventory audit. Compare physical counts against tracker. Identify shortfalls for tournament minimums.",
+    "value": ""
+  },
+  {
+    "item_id": "item_judge_sched",
+    "column_id": "status",
+    "text": "Not Started",
+    "value": ""
+  },
+  {
+    "item_id": "item_venue_setup",
+    "column_id": "status",
+    "text": "Working on it",
+    "value": ""
+  }
+]

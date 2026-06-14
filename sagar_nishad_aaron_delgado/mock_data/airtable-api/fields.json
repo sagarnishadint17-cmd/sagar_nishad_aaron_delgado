@@ -1,0 +1,116 @@
+[
+  {
+    "tableId": "tblEQINV",
+    "id": "fldCAT",
+    "name": "Category",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldITEM",
+    "name": "Item",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldSIZE",
+    "name": "Size_Type",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldCOUNT",
+    "name": "Current_Count",
+    "type": "number"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldCOND",
+    "name": "Condition",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldINSP",
+    "name": "Last_Inspected",
+    "type": "date"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldMINREQ",
+    "name": "Min_Required_Tournament",
+    "type": "number"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldSHORT",
+    "name": "Shortfall",
+    "type": "number"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldUPDATED",
+    "name": "Last_Updated_By",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldAUTH",
+    "name": "Source_Status",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblCONTACTS",
+    "id": "fldContactNm",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblCONTACTS",
+    "id": "fldContactEml",
+    "name": "Email",
+    "type": "email"
+  },
+  {
+    "tableId": "tblCONTACTS",
+    "id": "fldContactCo",
+    "name": "Company",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblCONTACTS",
+    "id": "fldContactRl",
+    "name": "Role",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldTaskName00001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldTaskStatus001",
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldTaskProject01",
+    "name": "Project",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldTaskHours0001",
+    "name": "EstimateHours",
+    "type": "number"
+  },
+  {
+    "tableId": "tblEQINV",
+    "id": "fldTaskDone00001",
+    "name": "Done",
+    "type": "checkbox"
+  }
+]

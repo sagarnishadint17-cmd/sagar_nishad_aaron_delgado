@@ -1,0 +1,32 @@
+[
+  {
+    "id": "db_students",
+    "title": "Student Directory",
+    "parent_page_id": "pg_root",
+    "created_time": "2025-02-01T10:00:00-08:00",
+    "last_edited_time": "2027-01-01T09:00:00-07:00",
+    "created_by": "nu_aaron",
+    "icon": "table",
+    "archived": "false"
+  },
+  {
+    "id": "db_curriculum",
+    "title": "Curriculum Plan",
+    "parent_page_id": "pg_root",
+    "created_time": "2025-12-01T10:00:00-08:00",
+    "last_edited_time": "2026-12-15T10:00:00-07:00",
+    "created_by": "nu_aaron",
+    "icon": "table",
+    "archived": "false"
+  },
+  {
+    "id": "db_knowledge",
+    "title": "Kendo Knowledge Base",
+    "parent_page_id": "pg_root",
+    "created_time": "2026-01-01T10:00:00-07:00",
+    "last_edited_time": "2026-11-20T10:00:00-07:00",
+    "created_by": "nu_aaron",
+    "icon": "table",
+    "archived": "false"
+  }
+]

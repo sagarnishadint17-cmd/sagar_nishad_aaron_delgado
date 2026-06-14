@@ -1,0 +1,118 @@
+message_id,thread_id,date,from,to,subject,labels,snippet,body_text,has_attachment,is_read
+msg_001,thread_001,2027-01-03T09:15:00-07:00,tom.iverson@cedarridgema.com,aaron.delgado@email.com,Equipment Audit Reminder,"INBOX,Label_1,Label_2","Hey Aaron, just a reminder that the equipment audit needs to be done by Jan 10...","Hey Aaron,
+
+Just a reminder that the equipment audit needs to be done by January 10. I know you've been busy with the kids' school stuff, but this is critical for tournament prep.
+
+Raj already pulled 2 damaged kote pairs last week and updated Airtable. You'll want to verify his count and do the full walkthrough of Storage Room B.
+
+Key things to check:
+- Shinai count on Rack A (adult) and Rack A-lower (youth)
+- Kote on Shelf B (verify Raj's update)
+- Bogu sets on stands D1-D6
+- Take photos for documentation
+
+Let me know if you need any help. I'll be at the dojo Tuesday and Thursday evenings.
+
+- Tom",false,true
+msg_002,thread_002,2027-01-02T14:30:00-07:00,orders@budosupply.com,aaron.delgado@email.com,Quote BSQ-2026-1847 - Cedar Ridge Order,"INBOX,Label_3",Thank you for your quote request. Please find the details below...,"Dear Aaron Delgado,
+
+Thank you for your quote request. Below are the details for your review:
+
+Quote #BSQ-2026-1847
+Date: December 25, 2026
+Valid Until: January 20, 2027
+
+Item 1: Adult Shinai 39in Tournament Grade (BS-SH-ADT-39)
+Quantity: 2
+Unit Price: $45.00
+Subtotal: $90.00
+
+Item 2: Adult Kote Tournament Grade Size L (BS-KT-ADT-TRN-L)
+Quantity: 2
+Unit Price: $75.00
+Subtotal: $150.00
+
+Subtotal: $240.00
+Shipping: FREE (orders over $200)
+Tax: $0.00 (OR exempt)
+
+TOTAL: $240.00
+
+Estimated delivery: 5-7 business days from order confirmation.
+
+To place this order, reply to this email with 'CONFIRM ORDER' and your preferred shipping address.
+
+Best regards,
+Sarah Chen
+Budo Supply - Portland",true,true
+msg_003,thread_003,2027-01-01T11:00:00-07:00,raj.patel@cedarridgema.com,aaron.delgado@email.com,RE: Damaged Kote Update,"INBOX,Label_1","Aaron, I finished updating Airtable with the damaged kote info...","Aaron,
+
+I finished updating Airtable with the damaged kote info. Here's what I changed:
+
+- Adult Kote L: Changed from 5 to 3 functional pairs
+- Added damage notes to equipment records EQ-KT-004 and EQ-KT-005
+- Both pairs are now on Shelf B-lower with red damage tags
+
+The torn stitching is on the palmar panels of both pairs. I don't think they're worth repairing — the panels need full replacement which would cost $40-50 each, and at that point you might as well buy new tournament grade pairs.
+
+I took photos of the damage and left them in the shared folder.
+
+Let me know if you want me to do anything else before the audit.
+
+- Raj",false,true
+msg_004,thread_004,2026-12-28T16:45:00-07:00,elena.delgado@email.com,aaron.delgado@email.com,Grocery list for the weekend,"INBOX,Label_4","Hey babe, can you pick up some stuff from Costco tomorrow morning?...","Hey babe, can you pick up some stuff from Costco tomorrow morning?
+
+I need:
+- Chicken thighs (bulk)
+- Rice (25 lb)
+- Almond milk (3 cartons)
+- Frozen berries
+- Paper towels
+
+Also Kyle needs new hiking boots, his feet grew again. Can you check REI?
+
+Mia has soccer at 2 so I'll take her. You should be free for the block party setup.
+
+Love you,
+Elena",false,true
+msg_005,thread_005,2026-12-25T08:20:00-07:00,noreply@eventbrite.com,aaron.delgado@email.com,Your Event: Cedar Ridge Fall Tournament 2026 - Registration Update,"INBOX,Label_2",12 registrations received for Cedar Ridge Fall Tournament 2026...,"Hi Aaron,
+
+Here's your latest registration update for Cedar Ridge Annual Fall Tournament 2026:
+
+📊 Registration Summary:
+- Total registrations: 12
+- Adult Division: 8
+- Youth Division: 4
+- Revenue collected: $360.00
+
+📅 Event Date: January 17, 2027
+📍 Location: Cedar Ridge Martial Arts Academy
+
+Registration is still open. Share your event link to boost sign-ups!
+
+Manage your event at eventbrite.com/manage/events/987654321
+
+- The Eventbrite Team",false,true
+msg_006,thread_006,2026-12-20T10:00:00-07:00,maya.chen.photo@gmail.com,aaron.delgado@email.com,Tournament photography - confirming Jan 17,"INBOX,Label_2",Hi Aaron! Just confirming I can volunteer for tournament photos on Jan 17...,"Hi Aaron!
+
+Just confirming I can volunteer for tournament photos on January 17. I'll bring my Canon R6 and the 70-200mm lens which works great for action shots.
+
+A few questions:
+1. What time should I arrive for setup?
+2. Do you want candid shots only or also posed group photos?
+3. Is there a specific area I should avoid? (I know some parents don't want their kids photographed)
+4. Should I bring lighting equipment or is the dojo bright enough?
+
+Also happy to help with the photography setup on Jan 15 if you need it.
+
+Let me know!
+Maya",false,true
+msg_007,thread_001,2027-01-05T07:30:00-07:00,aaron.delgado@email.com,tom.iverson@cedarridgema.com,Re: Equipment Audit Reminder,"SENT,Label_1,Label_2","Tom, I'm heading to the dojo this morning to start the audit...","Tom,
+
+I'm heading to the dojo this morning to start the audit. Going to take photos of everything in Storage Room B and cross-check against Airtable.
+
+I saw Raj's update about the damaged kote. I'll verify his count and make sure everything matches.
+
+Should have the Monday board updated by end of day.
+
+- Aaron",false,true

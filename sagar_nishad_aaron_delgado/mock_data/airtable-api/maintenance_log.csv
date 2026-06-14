@@ -1,0 +1,8 @@
+log_id,equipment_id,date,action,performed_by,condition_before,condition_after,cost,notes
+mlog_001,EQ-KT-004,2026-12-28,Removed from active inventory,Raj Patel,Worn,DAMAGED,0.0,Torn palmar stitching discovered during routine check. Red tag applied.
+mlog_002,EQ-KT-005,2026-12-28,Removed from active inventory,Raj Patel,Worn,DAMAGED,0.0,"Split stitching on left palm, padding compressed. Red tag applied."
+mlog_003,EQ-SH-003,2026-12-28,Inspected,Raj Patel,Fair,Fair,0.0,Tsukagawa showing wear but still functional. Monitor.
+mlog_004,EQ-SH-008,2026-12-28,Inspected,Raj Patel,Fair,Fair,0.0,"Minor wear, still within usable spec. Monitor."
+mlog_005,EQ-BG-006,2025-11-15,Repaired do panel,External,Fair,Good,85.0,Crack in do panel repaired by Portland Kendo Repairs.
+mlog_006,EQ-SH-001,2026-11-15,Tsukagawa replaced,Raj Patel,Fair,Good,8.0,Routine maintenance.
+mlog_007,EQ-SH-002,2026-11-15,Tsukagawa replaced,Raj Patel,Fair,Good,8.0,Routine maintenance.

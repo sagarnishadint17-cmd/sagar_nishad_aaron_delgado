@@ -1,0 +1,23 @@
+[
+  {
+    "item_id": "item_eq_audit",
+    "board_id": "board_cr_tourn_2026",
+    "group_id": "grp_todo",
+    "name": "Equipment Audit",
+    "created_at": "2026-12-20T10:00:00Z"
+  },
+  {
+    "item_id": "item_judge_sched",
+    "board_id": "board_cr_tourn_2026",
+    "group_id": "grp_todo",
+    "name": "Judge Schedule",
+    "created_at": "2026-12-20T10:00:00Z"
+  },
+  {
+    "item_id": "item_venue_setup",
+    "board_id": "board_cr_tourn_2026",
+    "group_id": "grp_inprogress",
+    "name": "Venue Setup Plan",
+    "created_at": "2026-12-25T09:00:00Z"
+  }
+]

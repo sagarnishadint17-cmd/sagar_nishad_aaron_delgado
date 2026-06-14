@@ -1,0 +1,11 @@
+id,name,type,messagesTotal,messagesUnread,threadsTotal,threadsUnread
+INBOX,INBOX,system,342,14,198,8
+SENT,SENT,system,289,0,198,0
+DRAFT,DRAFT,system,3,3,3,3
+STARRED,STARRED,system,45,2,32,1
+TRASH,TRASH,system,12,0,10,0
+Label_1,Cedar Ridge,user,187,5,102,3
+Label_2,Tournament 2026,user,34,3,22,2
+Label_3,Vendors,user,28,1,18,1
+Label_4,Personal,user,156,4,89,2
+Label_5,Kids School,user,43,2,31,1

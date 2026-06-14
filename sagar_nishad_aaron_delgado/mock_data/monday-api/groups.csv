@@ -1,0 +1,7 @@
+group_id,board_id,title,color,position
+group_todo,board_tourn,To Do,#e2445c,1
+group_progress,board_tourn,In Progress,#fdab3d,2
+group_done,board_tourn,Done,#00c875,3
+group_ops_todo,board_ops,To Do,#e2445c,1
+group_ops_progress,board_ops,In Progress,#fdab3d,2
+group_ops_done,board_ops,Done,#00c875,3

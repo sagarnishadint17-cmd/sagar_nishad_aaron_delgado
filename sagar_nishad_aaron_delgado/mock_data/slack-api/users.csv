@@ -1,0 +1,6 @@
+user_id,name,real_name,email,is_admin,title,status_text,status_emoji,tz
+U_aaron,aaron.delgado,Aaron Delgado,aaron.delgado@email.com,true,Co-Owner,Tournament prep mode,:martial_arts_uniform:,America/Los_Angeles
+U_tom,tom.iverson,Tom Iverson,tom.iverson@cedarridgema.com,true,Head Instructor / Co-Owner,Teaching,:crossed_swords:,America/Los_Angeles
+U_raj,raj.patel,Raj Patel,raj.patel@cedarridgema.com,false,Assistant Instructor,Equipment check done,:white_check_mark:,America/Los_Angeles
+U_maya,maya.chen,Maya Chen,maya.chen.photo@gmail.com,false,Volunteer Photographer,,:camera:,America/Los_Angeles
+U_bot,cedar-bot,Cedar Bot,,false,Automated Notifications,,:robot_face:,America/Los_Angeles

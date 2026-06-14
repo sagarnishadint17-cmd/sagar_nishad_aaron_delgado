@@ -1,0 +1,16 @@
+[
+  {
+    "baseId": "appCR2026EQ",
+    "id": "tblEQINV",
+    "name": "Equipment Inventory",
+    "primaryFieldId": "fldITEM",
+    "records_csv": "records_tasks.csv"
+  },
+  {
+    "baseId": "appCR2026EQ",
+    "id": "tblCONTACTS",
+    "name": "Contacts",
+    "primaryFieldId": "fldContactNm",
+    "records_csv": "records_contacts.csv"
+  }
+]

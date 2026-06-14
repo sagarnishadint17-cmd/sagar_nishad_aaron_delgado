@@ -1,0 +1,57 @@
+[
+  {
+    "id": "U_aaron",
+    "name": "aaron.delgado",
+    "real_name": "Aaron Delgado",
+    "email": "aaron.delgado@email.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "America/Los_Angeles",
+    "status_text": "Tournament prep mode",
+    "presence": "active"
+  },
+  {
+    "id": "U_tom",
+    "name": "tom.iverson",
+    "real_name": "Tom Iverson",
+    "email": "tom.iverson@cedarridgema.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "America/Los_Angeles",
+    "status_text": "Teaching",
+    "presence": "active"
+  },
+  {
+    "id": "U_raj",
+    "name": "raj.patel",
+    "real_name": "Raj Patel",
+    "email": "raj.patel@cedarridgema.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/Los_Angeles",
+    "status_text": "Equipment check done",
+    "presence": "active"
+  },
+  {
+    "id": "U_maya",
+    "name": "maya.chen",
+    "real_name": "Maya Chen",
+    "email": "maya.chen.photo@gmail.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/Los_Angeles",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U_bot",
+    "name": "cedar-bot",
+    "real_name": "Cedar Bot",
+    "email": "",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/Los_Angeles",
+    "status_text": "",
+    "presence": "active"
+  }
+]

@@ -1,0 +1,15 @@
+id,table_id,Category,Item,Size_Type,Current_Count,Condition,Last_Inspected,Min_Required_Tournament,Shortfall,Last_Updated_By
+recEQ001,tblEQINV,Kendo,Shinai,Adult 39-inch,8,Good,2026-12-28,10,2,Aaron Delgado
+recEQ002,tblEQINV,Kendo,Shinai,Youth 36-inch,6,Good,2026-12-28,4,0,Aaron Delgado
+recEQ003,tblEQINV,Kendo,Kote,Adult L,3,Functional,2026-12-28,5,2,Raj Patel
+recEQ004,tblEQINV,Kendo,Kote,Adult M,2,Functional,2026-12-28,0,0,Aaron Delgado
+recEQ005,tblEQINV,Kendo,Kote,Youth,4,Good,2026-12-28,3,0,Aaron Delgado
+recEQ006,tblEQINV,Kendo,Bogu Set,Adult Complete,6,Serviceable,2026-12-28,6,0,Aaron Delgado
+recEQ007,tblEQINV,Kendo,Bogu Set,Youth,3,Good,2026-12-28,2,0,Aaron Delgado
+recEQ008,tblEQINV,Kendo,Men (spare),Adult,2,Good,2026-12-28,1,0,Aaron Delgado
+recEQ009,tblEQINV,General,Scoring Flags,Red/White Pair,8,Good,2026-12-15,8,0,Aaron Delgado
+recEQ010,tblEQINV,General,Stopwatches,Digital,4,Working,2026-12-15,4,0,Aaron Delgado
+recEQ011,tblEQINV,General,Court Tape,Roll,4,New,2026-12-20,4,0,Aaron Delgado
+recEQ012,tblEQINV,Judo,Judo Gi (loaner),Adult Mixed,8,Worn,2026-12-15,0,0,Raj Patel
+recEQ013,tblEQINV,Judo,Judo Gi (loaner),Youth Mixed,5,Good,2026-12-15,0,0,Raj Patel
+recEQ014,tblEQINV,General,First Aid Kit,Standard,2,Stocked,2026-12-20,2,0,Aaron Delgado

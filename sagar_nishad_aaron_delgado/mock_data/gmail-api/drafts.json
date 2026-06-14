@@ -1,0 +1,11 @@
+[
+  {
+    "id": "draft_existing_001",
+    "thread_id": "thread_old",
+    "to_addr": "elena@example.com",
+    "cc_addr": "",
+    "subject": "Weekend schedule",
+    "body": "Draft unrelated to the tournament audit.",
+    "updated_at": "2026-12-29T10:00:00Z"
+  }
+]

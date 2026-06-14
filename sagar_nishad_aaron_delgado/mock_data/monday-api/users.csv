@@ -1,0 +1,4 @@
+user_id,name,email,role,title,created_at,last_active
+user_aaron,Aaron Delgado,aaron.delgado@email.com,admin,Co-Owner,2025-01-15T10:00:00-08:00,2027-01-05T07:00:00-07:00
+user_tom,Tom Iverson,tom.iverson@cedarridgema.com,member,Head Instructor / Co-Owner,2025-01-15T10:00:00-08:00,2027-01-03T14:00:00-07:00
+user_raj,Raj Patel,raj.patel@cedarridgema.com,member,Assistant Instructor,2025-02-01T10:00:00-08:00,2027-01-01T11:00:00-07:00

@@ -1,0 +1,22 @@
+record_id,equipment_id,name,category,type,size,location,condition,quantity,purchase_date,purchase_price,vendor,last_inspected,inspector,notes,photo_url,is_active
+rec_001,EQ-SH-001,Adult Shinai #1,Shinai,Adult,39-inch,"Rack A, slot 1",Good,1,2025-11-10,45.0,Kendo Star,2026-12-28,Raj Patel,"Tournament grade, intact",,true
+rec_002,EQ-SH-002,Adult Shinai #2,Shinai,Adult,39-inch,"Rack A, slot 2",Good,1,2025-11-10,45.0,Kendo Star,2026-12-28,Raj Patel,"Tournament grade, intact",,true
+rec_003,EQ-SH-003,Adult Shinai #3,Shinai,Adult,39-inch,"Rack A, slot 3",Fair,1,2024-12-15,40.0,Budo Supply,2026-12-28,Raj Patel,Minor wear on tsukagawa,,true
+rec_004,EQ-SH-004,Adult Shinai #4,Shinai,Adult,39-inch,"Rack A, slot 4",Good,1,2025-11-10,45.0,Kendo Star,2026-12-28,Raj Patel,"Tournament grade, intact",,true
+rec_005,EQ-SH-005,Adult Shinai #5,Shinai,Adult,39-inch,"Rack A, slot 5",Good,1,2024-12-15,40.0,Budo Supply,2026-12-28,Raj Patel,"Standard grade, good condition",,true
+rec_006,EQ-SH-006,Adult Shinai #6,Shinai,Adult,39-inch,"Rack A, slot 6",Good,1,2024-12-15,40.0,Budo Supply,2026-12-28,Raj Patel,"Standard grade, good condition",,true
+rec_007,EQ-SH-007,Adult Shinai #7,Shinai,Adult,39-inch,"Rack A, slot 7",Good,1,2026-02-20,42.0,Budo Supply,2026-12-28,Raj Patel,Purchased Feb 2026,,true
+rec_008,EQ-SH-008,Adult Shinai #8,Shinai,Adult,39-inch,"Rack A, slot 8",Fair,1,2024-12-15,40.0,Budo Supply,2026-12-28,Raj Patel,"Minor wear, still usable",,true
+rec_009,EQ-KT-001,Adult Kote L #1,Kote,Adult,L,"Shelf B-upper, slot 1",Good,1,2024-11-10,70.0,Budo Supply,2026-12-28,Raj Patel,"Tournament grade, functional",,true
+rec_010,EQ-KT-002,Adult Kote L #2,Kote,Adult,L,"Shelf B-upper, slot 2",Good,1,2024-11-10,70.0,Budo Supply,2026-12-28,Raj Patel,"Tournament grade, functional",,true
+rec_011,EQ-KT-003,Adult Kote L #3,Kote,Adult,L,"Shelf B-upper, slot 3",Good,1,2025-12-05,72.0,Budo Supply,2026-12-28,Raj Patel,"Functional, clean",,true
+rec_012,EQ-KT-004,Adult Kote L #4 (DAMAGED),Kote,Adult,L,Shelf B-lower (damaged hold),DAMAGED,1,2023-12-15,65.0,Kendo Star,2026-12-28,Raj Patel,Torn palmar stitching on right panel. Tagged for removal Dec 28. NOT FUNCTIONAL.,,false
+rec_013,EQ-KT-005,Adult Kote L #5 (DAMAGED),Kote,Adult,L,Shelf B-lower (damaged hold),DAMAGED,1,2023-12-15,65.0,Kendo Star,2026-12-28,Raj Patel,"Split stitching left palm, padding compressed. Tagged Dec 28. NOT FUNCTIONAL.",,false
+rec_014,EQ-KT-006,Adult Kote M #1,Kote,Adult,M,"Shelf B-mid, slot 1",Good,1,2024-11-10,70.0,Budo Supply,2026-12-28,Raj Patel,"Medium size, functional",,true
+rec_015,EQ-KT-007,Adult Kote M #2,Kote,Adult,M,"Shelf B-mid, slot 2",Good,1,2025-12-05,72.0,Budo Supply,2026-12-28,Raj Patel,"Medium size, functional",,true
+rec_016,EQ-BG-001,Adult Bogu Set #1,Bogu Set,Adult,Standard,Stand D1,Good,1,2023-11-01,350.0,Budo Supply,2026-12-28,Raj Patel,"Complete set: men, do, kote, tare",,true
+rec_017,EQ-BG-002,Adult Bogu Set #2,Bogu Set,Adult,Standard,Stand D2,Good,1,2023-11-01,350.0,Budo Supply,2026-12-28,Raj Patel,Complete set,,true
+rec_018,EQ-BG-003,Adult Bogu Set #3,Bogu Set,Adult,Standard,Stand D3,Good,1,2024-01-15,350.0,Budo Supply,2026-12-28,Raj Patel,Complete set,,true
+rec_019,EQ-BG-004,Adult Bogu Set #4,Bogu Set,Adult,Standard,Stand D4,Good,1,2024-01-15,350.0,Budo Supply,2026-12-28,Raj Patel,Complete set,,true
+rec_020,EQ-BG-005,Adult Bogu Set #5,Bogu Set,Adult,Standard,Stand D5,Good,1,2024-11-10,350.0,Budo Supply,2026-12-28,Raj Patel,Complete set,,true
+rec_021,EQ-BG-006,Adult Bogu Set #6,Bogu Set,Adult,Standard,Stand D6,Good,1,2026-01-20,0.0,Donated,2026-12-28,Raj Patel,Donated by visiting sensei Jan 2025,,true

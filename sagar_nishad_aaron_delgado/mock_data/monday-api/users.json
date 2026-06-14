@@ -1,0 +1,23 @@
+[
+  {
+    "user_id": "usr_aaron",
+    "name": "Aaron Delgado",
+    "email": "aaron.delgado@cedarridge.example.com",
+    "title": "Co-Owner",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr_tom",
+    "name": "Tom Iverson",
+    "email": "tom.iverson@gmail.com",
+    "title": "Head Instructor",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr_raj",
+    "name": "Raj Patel",
+    "email": "raj.patel@gmail.com",
+    "title": "Operations Volunteer",
+    "is_admin": "false"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "recEQ001",
+    "createdTime": "2026-12-28T19:00:00.000Z",
+    "Name": "CURRENT - Shinai Adult 39-inch - count 8 - min 10 - shortfall 2",
+    "Status": "Current",
+    "Project": "Cedar Ridge Tournament 2026",
+    "EstimateHours": "0",
+    "Done": "false"
+  },
+  {
+    "id": "recEQ002",
+    "createdTime": "2026-12-28T19:00:00.000Z",
+    "Name": "CURRENT - Shinai Youth 36-inch - count 6 - min 4 - shortfall 0",
+    "Status": "Current",
+    "Project": "Cedar Ridge Tournament 2026",
+    "EstimateHours": "0",
+    "Done": "false"
+  },
+  {
+    "id": "recEQ003",
+    "createdTime": "2026-12-28T19:15:00.000Z",
+    "Name": "CURRENT - Kote Adult L functional - count 3 - min 5 - replacement shortfall 2",
+    "Status": "Current",
+    "Project": "Cedar Ridge Tournament 2026",
+    "EstimateHours": "0",
+    "Done": "false"
+  },
+  {
+    "id": "recEQ004",
+    "createdTime": "2026-12-28T19:00:00.000Z",
+    "Name": "CURRENT - Kote Adult M functional but not large loaner pool - count 2 - shortfall 0",
+    "Status": "Current",
+    "Project": "Cedar Ridge Tournament 2026",
+    "EstimateHours": "0",
+    "Done": "false"
+  },
+  {
+    "id": "recEQ005",
+    "createdTime": "2026-12-28T19:00:00.000Z",
+    "Name": "CURRENT - Bogu Set Adult Complete - count 6 - min 6 - shortfall 0",
+    "Status": "Current",
+    "Project": "Cedar Ridge Tournament 2026",
+    "EstimateHours": "0",
+    "Done": "false"
+  },
+  {
+    "id": "recEQ099",
+    "createdTime": "2026-01-12T20:00:00.000Z",
+    "Name": "ARCHIVED SUPERSEDED - Shinai Adult 39-inch - stale count 14 - do not use",
+    "Status": "Archived",
+    "Project": "Cedar Ridge Tournament 2026",
+    "EstimateHours": "0",
+    "Done": "true"
+  }
+]

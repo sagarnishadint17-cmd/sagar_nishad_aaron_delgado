@@ -1,0 +1,5 @@
+id,base_id,name,description
+tblEQINV,appCR2026EQ,Equipment Inventory,Current equipment inventory for Cedar Ridge
+tblEQHIST,appCR2026EQ,Equipment History,Historical equipment changes and audits
+tblSTUDENTS,appCR2026STU,Active Students,Current active student roster
+tblBRACKETS,appCR2026TOURN,Tournament Brackets,Fall 2026 tournament bracket assignments

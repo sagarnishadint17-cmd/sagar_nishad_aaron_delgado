@@ -1,0 +1,22 @@
+Equipment_ID	Type	Size	Last_Inspected	Condition	Inspector	Next_Service
+EQ-SH-001	Shinai	Adult 39in	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-SH-002	Shinai	Adult 39in	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-SH-003	Shinai	Adult 39in	2026-12-28	Fair	Raj Patel	2026-12-28
+EQ-SH-004	Shinai	Adult 39in	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-SH-005	Shinai	Adult 39in	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-SH-006	Shinai	Adult 39in	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-SH-007	Shinai	Adult 39in	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-SH-008	Shinai	Adult 39in	2026-12-28	Fair	Raj Patel	2026-12-28
+EQ-KT-001	Kote	Adult L	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-KT-002	Kote	Adult L	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-KT-003	Kote	Adult L	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-KT-004	Kote	Adult L	2026-12-28	DAMAGED	Raj Patel	REMOVED
+EQ-KT-005	Kote	Adult L	2026-12-28	DAMAGED	Raj Patel	REMOVED
+EQ-KT-006	Kote	Adult M	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-KT-007	Kote	Adult M	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-BG-001	Bogu Set	Adult	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-BG-002	Bogu Set	Adult	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-BG-003	Bogu Set	Adult	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-BG-004	Bogu Set	Adult	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-BG-005	Bogu Set	Adult	2026-12-28	Good	Raj Patel	2027-12-28
+EQ-BG-006	Bogu Set	Adult	2026-12-28	Good	Raj Patel	2027-12-28
